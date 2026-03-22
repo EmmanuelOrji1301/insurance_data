@@ -30,5 +30,5 @@ customers ──► risk_profile
 ---
 
 ## 📌 Notes
-- Data is synthetically generated
+- Data are not real, meant to silmulate a real-life insurance dataset
 - USA-based — all 50 states + Washington D.C.
